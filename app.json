@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "الأثير",
+    "slug": "al-atheer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.alatheer.app",
+      "versionCode": 1
+    }
+  }
+}
